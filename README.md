@@ -1,5 +1,10 @@
 <h1>Hi, I'm Daniel! <br/><a href="https://github.com/Radstar1">Programmer</a>, <a href="https://www.linkedin.com/in/Radstar1/">Software & Game Developer</a>, <a href="https://www.youtube.com/c/Radstar1">YouTuber</a></h1>
 
+<h2>👨‍💻 Game Development Projects:</h2>
+- [1st Game - 750,000 Visits] (https://www.roblox.com/games/835138827/Hitman-Re-Blox-v-06-Glacier-Flame)
+- [2nd Game - 210,000 Visits] (https://www.roblox.com/games/8915408594/NEW-CAT-Mousey-Mayhem)
+- [3rd Game - Unreleased/Valorant Replica] (https://www.roblox.com/games/2791829960/ValorBlox-BETA-TESTING)
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
