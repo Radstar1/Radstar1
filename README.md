@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/Radstar1">Programmer</a>, <a href="https://www.linkedin.com/in/Radstar1/">Software & Game Developer</a>, <a href="https://www.youtube.com/c/Radstar1">YouTuber</a></h1>
+<h1>Hi, I'm Daniel! <br/><a href="https://github.com/Radstar1">Programmer</a>, <a href="https://www.linkedin.com/in/Radstar1/">Software & Game Developer</a>, <a href="https://www.youtube.com/Radstar1">YouTuber</a></h1>
 
 <h2>👨‍💻 Game Development Projects:</h2>
 
