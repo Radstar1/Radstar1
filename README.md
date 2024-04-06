@@ -7,7 +7,7 @@
 - [3rd Game - Unreleased/Valorant Replica](https://www.roblox.com/games/2791829960/ValorBlox-BETA-TESTING)
 
 <h2>👨‍💻 Software Development Projects:</h2>
-
+- Currently creating a crytobot in c++
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
